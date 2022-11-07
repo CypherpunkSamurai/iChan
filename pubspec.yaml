@@ -25,11 +25,13 @@ dependencies:
   shimmer: ^1.1.0
   video_player: ^0.10.10
   flutter_vlc_player:
-    git: https://github.com/solid-software/flutter_vlc_player.git
-    path: flutter_vlc_player/
+    git:
+      url: https://github.com/solid-software/flutter_vlc_player.git
+      path: flutter_vlc_player/
   chewie: ^0.9.10
   flutter_html:
-    git: https://github.com/Zchandev/flutter_html.git
+    git: 
+      url: https://github.com/Zchandev/flutter_html.git
   extended_image: ^1.1.1
   path_provider: ^1.6.11
   package_info: ^0.4.0+16

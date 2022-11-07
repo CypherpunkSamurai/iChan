@@ -45,7 +45,7 @@ dependencies:
   video_thumbnail: ^0.2.2
   universal_html: ^1.2.3
   wc_flutter_share: ^0.2.2
-  permission_handler: ^5.0.1+1
+  permission_handler: ^10.2.0
   # audioplayers: ^0.15.1
   disk_space: ^0.0.3
   flutter_secure_storage: ^3.3.3
@@ -84,7 +84,7 @@ dev_dependencies:
   # flutter_driver:
   #   sdk: flutter
 dependency_overrides:
-  permission_handler: ^5.0.1+1
+  permission_handler: ^10.2.0
   flutter_svg: ^0.18.0
   intl: ^0.16.1
   path: 1.7.0
